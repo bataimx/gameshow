@@ -1,0 +1,40 @@
+{
+	"items":[
+		{
+			"id": 1,
+			"question": "Name a yellow fruit?",
+			"a": "Orange.",
+			"b": "Banana.",
+			"c": "Lime.",
+			"d": "Apple.",
+			"answer": "b"
+		},
+		{
+			"id": 2,
+			"question": "What has one head, one foot, and four legs?",
+			"a": "A cup.",
+			"b": "A bed.",
+			"c": "A hat.",
+			"d": "A wallet.",
+			"answer": "b"
+		},
+		{
+			"id": 3,
+			"question": "I travel all over the world, but always stay in my corner. What am I?",
+			"a": "A umbrella.",
+			"b": "A phone.",
+			"c": "A stamp.",
+			"d": "A pair of socks.",
+			"answer": "c"
+		},
+		{
+			"id": 4,
+			"question": "Where is the ocean the deepest?",
+			"a": "On the sea!",
+			"b": "On the corner!",
+			"c": "On the top!",
+			"d": "On the bottom!",
+			"answer": "d"
+		}
+	]
+}
