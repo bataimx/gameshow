@@ -4,7 +4,6 @@ import Qlist from './Qlist';
 import ShortBreak from './ShortBreak';
 import data from './data/data.json';
 import talker from './talker.js';
-import Music from './Music.js';
 
 function isEmpty(obj) {
   for(var key in obj) {
@@ -83,7 +82,6 @@ class Game extends Component {
             <div id="questionlist" className="collapse navbar-collapse questionlist">
               <Qlist items={this.state.items} active={this.state.items[this.state.currQuestion].id} />
             </div>
-            <Music src={'./asset/intro.mp3'} />
           </div>
         </div>
       </div>
